@@ -3,7 +3,7 @@ Raw data and Google Colab with data cleaning, aggregation, descriptive analysis 
 
 Preliminary Title: **A national survey on preferred training conditions among trainers and trainees for board certification in gastroenterology.**
 
-Vorläuferiger Titel: **Umsetzung der Weiterbildung zum Facharzt für Gastroenterologie aus Sicht von Ausbilder:innen und Auszubildenden**
+Vorläufiger Titel: **Umsetzung der Weiterbildung zum Facharzt für Gastroenterologie aus Sicht von Ausbilder:innen und Auszubildenden**
 
 The final title and bibliographical information will be added once the survey has been published in a peer-review journal.
 
