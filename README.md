@@ -19,6 +19,6 @@ Link to the Google Colab document: https://colab.research.google.com/drive/1-rfe
 
 ---
 **License:**
-The Code and Raw Data is published under Creative Commons Attribution Share Alike 4.0. This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+The Code and Raw Data is published under GNU Public License 3.0. See further information in the LICENSE.md file.
 
 ---
