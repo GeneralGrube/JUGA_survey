@@ -13,7 +13,7 @@ Link to the Google Colab document: https://colab.research.google.com/drive/1-rfe
 
 ---
 **Notice:**
- Most of this was annotated in German. Should questions arise, please contact jakob.garbe@uk-halle.de
+ Most of the code was annotated in German. Should questions arise, please contact jakob.garbe@uk-halle.de
 
 ---
 
