@@ -7,11 +7,10 @@ Vorläufiger Titel: **Umsetzung der Weiterbildung zum Facharzt für Gastroentero
 
 The final title and bibliographical information will be added once the survey has been published in a peer-review journal.
 
-Raw data file in this repository: data_JuGa_final.xlsx
-Aggegated Data for Overall and Subgroup responses is stored in the mastertable files.
-Question and Response Coding is explained in the **XXX** document (to be uploaded).
-
-The Google Colab document can be accessed via the file manager.
+- Raw data file in this repository: data_JuGa_final.xlsx
+- Aggegated Data for Overall and Subgroup responses is stored in the mastertable files.
+- Question and Response Coding is explained in the **XXX** document (to be uploaded).
+- The Google Colab document can be accessed via the file manager.
 
 ---
 **Notice:**
