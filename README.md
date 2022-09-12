@@ -9,7 +9,7 @@ The final title and bibliographical information will be added once the survey ha
 
 Raw data file in this repository: data_JuGa_final.xlsx
 
-Link to the Google Colab document: https://colab.research.google.com/drive/1-rfeeIVQxWPTWnOmf8neL0htBay6KQxs?usp=sharing
+The Google Colab document can be accessed vis the file manager.
 
 ---
 **Notice:**
