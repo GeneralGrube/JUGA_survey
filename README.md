@@ -9,7 +9,7 @@ The final title and bibliographical information will be added once the survey ha
 
 - Raw data file in this repository: data_JuGa_final.xlsx
 - Aggegated Data for Overall and Subgroup responses is stored in the mastertable files.
-- Question and Response Coding is explained in the **XXX** document (to be uploaded).
+- Question and Response Coding is explained in the "Translations_of_survey_questions" document.
 - The Google Colab document can be accessed via the file manager.
 
 ---
