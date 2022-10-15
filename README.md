@@ -20,6 +20,6 @@ The final title and bibliographical information will be added once the survey ha
 
 ---
 **License:**
-The Code and Raw Data is published under GNU Public License 3.0. See further information in the LICENSE.md file.
+The Code and Raw Data is published under GNU Public License 3.0. See further information in the LICENSE.md file. Figures are copyrighted. The copyright may lie with the accepting journal of this manuscript. Reproduction of figures needs approval of the copyright owner.
 
 ---
