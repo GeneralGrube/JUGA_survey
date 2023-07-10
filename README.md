@@ -1,11 +1,16 @@
 # JUGA_survey
 Raw data and Google Colab with data cleaning, aggregation, descriptive analysis and visualizations of the JUGA survey 2022.
 
-Preliminary Title: **A national survey on preferred training conditions among trainers and trainees for board certification in gastroenterology.**
+Publication Title: **How we achieve satisfaction in training – A German-wide survey on preferred training conditions among trainers and trainees for board certification in gastroenterology**
 
-Vorläufiger Titel: **Umsetzung der Weiterbildung zum Facharzt für Gastroenterologie aus Sicht von Ausbilder:innen und Auszubildenden**
+Titel: **Wie erreichen wir Zufriedenheit bei der Weiterbildung – Deutschlandweite Umfrage zu bevorzugten Weiterbildungsbedingungen zum Facharzt für Gastroenterologie aus Sicht von Ausbilder:innen und Auszubildenden**
 
-The final title and bibliographical information will be added once the survey has been published in a peer-review journal.
+Authors:
+Sophie Schlosser, Jakob Garbe, Karim Hamesch, Stavros Dimitriadis, Jonas Jaromir Staudacher
+
+Bibliography:
+Z Gastroenterol 2023;1–11
+DOI 10.1055/a-2119-3069
 
 - Raw data file in this repository: data_JuGa_final.xlsx
 - Aggegated Data for Overall and Subgroup responses is stored in the mastertable files.
